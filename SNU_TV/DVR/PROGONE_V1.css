@@ -1,0 +1,9 @@
+/* Start of stylesheet */
+/* Progress gone */
+/* Gecko - Mozilla Firefox */
+::-moz-progress-bar { background: red; }
+/* WebKit (Chromium, Safari) */
+progress::-webkit-progress-value { background: red; }
+/* Trident - Internet Explorer 10 and 11 */
+progress { color: blue; }
+/* End of stylesheet */
